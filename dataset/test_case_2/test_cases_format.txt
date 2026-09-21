@@ -1,8 +1,0 @@
-Requires 100 .mp4 files that are 1-2 sec long.
-
-test_00.mp4
-test_01.mp4
-.
-.
-.
-test_99.mp4

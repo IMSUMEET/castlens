@@ -1,0 +1,505 @@
+{
+  "titles": [
+    {
+      "id": "uncanny-hollow",
+      "title": "The Uncanny Hollow",
+      "year": 2026,
+      "rating": "TV-MA",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "accent": "#7c3aed",
+      "synopsis": "A sleepy town wakes up to find everyone's reflection is running about four seconds late.",
+      "durationSec": 24.0,
+      "video": "/titles/uncanny-hollow/clip.mp4",
+      "backdrop": "/titles/uncanny-hollow/thumbs/thumb_0.jpg",
+      "thumbnails": [
+        "/titles/uncanny-hollow/thumbs/thumb_0.jpg",
+        "/titles/uncanny-hollow/thumbs/thumb_1.jpg",
+        "/titles/uncanny-hollow/thumbs/thumb_2.jpg",
+        "/titles/uncanny-hollow/thumbs/thumb_3.jpg"
+      ],
+      "intro": {
+        "start": 0.0,
+        "end": 3.67
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 12.0
+        },
+        {
+          "start": 12.0,
+          "end": 16.0
+        },
+        {
+          "start": 16.0,
+          "end": 20.0
+        },
+        {
+          "start": 20.0,
+          "end": 24.0
+        }
+      ],
+      "cast": [
+        {
+          "actor": "Nova Quinn",
+          "character": "Sheriff Wren",
+          "slug": "nova_quinn",
+          "screenTimeSec": 12.0,
+          "appearances": [
+            {
+              "start": 4.0,
+              "end": 7.67
+            },
+            {
+              "start": 12.0,
+              "end": 15.67
+            },
+            {
+              "start": 20.0,
+              "end": 23.67
+            }
+          ]
+        },
+        {
+          "actor": "Dorian Vale",
+          "character": "The Stranger",
+          "slug": "dorian_vale",
+          "screenTimeSec": 8.0,
+          "appearances": [
+            {
+              "start": 8.0,
+              "end": 11.67
+            },
+            {
+              "start": 20.0,
+              "end": 23.67
+            }
+          ]
+        },
+        {
+          "actor": "Marcus Cole",
+          "character": "Doc Halloran",
+          "slug": "marcus_cole",
+          "screenTimeSec": 8.0,
+          "appearances": [
+            {
+              "start": 12.0,
+              "end": 19.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "midnight-protocol",
+      "title": "Midnight Protocol",
+      "year": 2025,
+      "rating": "TV-14",
+      "genres": [
+        "Sci-Fi",
+        "Action"
+      ],
+      "accent": "#0ea5e9",
+      "synopsis": "Two hackers and a very opinionated toaster race to stop an AI that just wants a day off.",
+      "durationSec": 24.0,
+      "video": "/titles/midnight-protocol/clip.mp4",
+      "backdrop": "/titles/midnight-protocol/thumbs/thumb_0.jpg",
+      "thumbnails": [
+        "/titles/midnight-protocol/thumbs/thumb_0.jpg",
+        "/titles/midnight-protocol/thumbs/thumb_1.jpg",
+        "/titles/midnight-protocol/thumbs/thumb_2.jpg",
+        "/titles/midnight-protocol/thumbs/thumb_3.jpg"
+      ],
+      "intro": {
+        "start": 0.0,
+        "end": 3.67
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 12.0
+        },
+        {
+          "start": 12.0,
+          "end": 16.0
+        },
+        {
+          "start": 16.0,
+          "end": 20.0
+        },
+        {
+          "start": 20.0,
+          "end": 24.0
+        }
+      ],
+      "cast": [
+        {
+          "actor": "Rex Calloway",
+          "character": "Byte",
+          "slug": "rex_calloway",
+          "screenTimeSec": 12.0,
+          "appearances": [
+            {
+              "start": 4.0,
+              "end": 7.67
+            },
+            {
+              "start": 12.0,
+              "end": 15.67
+            },
+            {
+              "start": 20.0,
+              "end": 23.67
+            }
+          ]
+        },
+        {
+          "actor": "Isla Monroe",
+          "character": "Cipher",
+          "slug": "isla_monroe",
+          "screenTimeSec": 8.0,
+          "appearances": [
+            {
+              "start": 8.0,
+              "end": 11.67
+            },
+            {
+              "start": 20.0,
+              "end": 23.67
+            }
+          ]
+        },
+        {
+          "actor": "Kai Tanaka",
+          "character": "Root",
+          "slug": "kai_tanaka",
+          "screenTimeSec": 8.0,
+          "appearances": [
+            {
+              "start": 12.0,
+              "end": 19.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "love-and-other-bugs",
+      "title": "Love & Other Bugs",
+      "year": 2026,
+      "rating": "TV-PG",
+      "genres": [
+        "Rom-Com"
+      ],
+      "accent": "#ec4899",
+      "synopsis": "A QA engineer falls for the one person who keeps breaking her code. It's a feature, not a bug.",
+      "durationSec": 24.0,
+      "video": "/titles/love-and-other-bugs/clip.mp4",
+      "backdrop": "/titles/love-and-other-bugs/thumbs/thumb_0.jpg",
+      "thumbnails": [
+        "/titles/love-and-other-bugs/thumbs/thumb_0.jpg",
+        "/titles/love-and-other-bugs/thumbs/thumb_1.jpg",
+        "/titles/love-and-other-bugs/thumbs/thumb_2.jpg",
+        "/titles/love-and-other-bugs/thumbs/thumb_3.jpg"
+      ],
+      "intro": {
+        "start": 0.0,
+        "end": 3.67
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 12.0
+        },
+        {
+          "start": 12.0,
+          "end": 16.0
+        },
+        {
+          "start": 16.0,
+          "end": 20.0
+        },
+        {
+          "start": 20.0,
+          "end": 24.0
+        }
+      ],
+      "cast": [
+        {
+          "actor": "Priya Anand",
+          "character": "Mira",
+          "slug": "priya_anand",
+          "screenTimeSec": 12.0,
+          "appearances": [
+            {
+              "start": 4.0,
+              "end": 7.67
+            },
+            {
+              "start": 12.0,
+              "end": 15.67
+            },
+            {
+              "start": 20.0,
+              "end": 23.67
+            }
+          ]
+        },
+        {
+          "actor": "Marcus Cole",
+          "character": "Dev",
+          "slug": "marcus_cole",
+          "screenTimeSec": 8.0,
+          "appearances": [
+            {
+              "start": 8.0,
+              "end": 15.67
+            }
+          ]
+        },
+        {
+          "actor": "Elena Frost",
+          "character": "The Manager",
+          "slug": "elena_frost",
+          "screenTimeSec": 8.0,
+          "appearances": [
+            {
+              "start": 16.0,
+              "end": 23.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "crown-of-ashes",
+      "title": "Crown of Ashes",
+      "year": 2024,
+      "rating": "TV-MA",
+      "genres": [
+        "Fantasy",
+        "Drama"
+      ],
+      "accent": "#f59e0b",
+      "synopsis": "Five kingdoms, one throne, and a dragon who is frankly tired of everyone's ambition.",
+      "durationSec": 24.0,
+      "video": "/titles/crown-of-ashes/clip.mp4",
+      "backdrop": "/titles/crown-of-ashes/thumbs/thumb_0.jpg",
+      "thumbnails": [
+        "/titles/crown-of-ashes/thumbs/thumb_0.jpg",
+        "/titles/crown-of-ashes/thumbs/thumb_1.jpg",
+        "/titles/crown-of-ashes/thumbs/thumb_2.jpg",
+        "/titles/crown-of-ashes/thumbs/thumb_3.jpg"
+      ],
+      "intro": {
+        "start": 0.0,
+        "end": 3.67
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 12.0
+        },
+        {
+          "start": 12.0,
+          "end": 20.0
+        },
+        {
+          "start": 20.0,
+          "end": 24.0
+        }
+      ],
+      "cast": [
+        {
+          "actor": "Dorian Vale",
+          "character": "King Alaric",
+          "slug": "dorian_vale",
+          "screenTimeSec": 8.0,
+          "appearances": [
+            {
+              "start": 4.0,
+              "end": 7.67
+            },
+            {
+              "start": 16.0,
+              "end": 19.67
+            }
+          ]
+        },
+        {
+          "actor": "Elena Frost",
+          "character": "Queen Sable",
+          "slug": "elena_frost",
+          "screenTimeSec": 8.0,
+          "appearances": [
+            {
+              "start": 8.0,
+              "end": 11.67
+            },
+            {
+              "start": 16.0,
+              "end": 19.67
+            }
+          ]
+        },
+        {
+          "actor": "Kai Tanaka",
+          "character": "The Warden",
+          "slug": "kai_tanaka",
+          "screenTimeSec": 8.0,
+          "appearances": [
+            {
+              "start": 12.0,
+              "end": 15.67
+            },
+            {
+              "start": 20.0,
+              "end": 23.67
+            }
+          ]
+        },
+        {
+          "actor": "Nova Quinn",
+          "character": "Court Seer",
+          "slug": "nova_quinn",
+          "screenTimeSec": 4.0,
+          "appearances": [
+            {
+              "start": 12.0,
+              "end": 15.67
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "deadline",
+      "title": "Deadline",
+      "year": 2025,
+      "rating": "TV-14",
+      "genres": [
+        "Comedy"
+      ],
+      "accent": "#22c55e",
+      "synopsis": "A newsroom has 24 hours to break the story of the century, if the coffee machine cooperates.",
+      "durationSec": 24.0,
+      "video": "/titles/deadline/clip.mp4",
+      "backdrop": "/titles/deadline/thumbs/thumb_0.jpg",
+      "thumbnails": [
+        "/titles/deadline/thumbs/thumb_0.jpg",
+        "/titles/deadline/thumbs/thumb_1.jpg",
+        "/titles/deadline/thumbs/thumb_2.jpg",
+        "/titles/deadline/thumbs/thumb_3.jpg"
+      ],
+      "intro": {
+        "start": 0.0,
+        "end": 3.67
+      },
+      "scenes": [
+        {
+          "start": 0.0,
+          "end": 12.0
+        },
+        {
+          "start": 12.0,
+          "end": 16.0
+        },
+        {
+          "start": 16.0,
+          "end": 20.0
+        },
+        {
+          "start": 20.0,
+          "end": 24.0
+        }
+      ],
+      "cast": [
+        {
+          "actor": "Isla Monroe",
+          "character": "Editor Reyes",
+          "slug": "isla_monroe",
+          "screenTimeSec": 12.0,
+          "appearances": [
+            {
+              "start": 4.0,
+              "end": 7.67
+            },
+            {
+              "start": 12.0,
+              "end": 15.67
+            },
+            {
+              "start": 20.0,
+              "end": 23.67
+            }
+          ]
+        },
+        {
+          "actor": "Rex Calloway",
+          "character": "Rookie",
+          "slug": "rex_calloway",
+          "screenTimeSec": 8.0,
+          "appearances": [
+            {
+              "start": 8.0,
+              "end": 11.67
+            },
+            {
+              "start": 20.0,
+              "end": 23.67
+            }
+          ]
+        },
+        {
+          "actor": "Priya Anand",
+          "character": "Producer Vega",
+          "slug": "priya_anand",
+          "screenTimeSec": 8.0,
+          "appearances": [
+            {
+              "start": 12.0,
+              "end": 19.67
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "people": {
+    "nova_quinn": {
+      "name": "Nova Quinn",
+      "headshot": "/titles/_cast/nova_quinn.jpg"
+    },
+    "rex_calloway": {
+      "name": "Rex Calloway",
+      "headshot": "/titles/_cast/rex_calloway.jpg"
+    },
+    "isla_monroe": {
+      "name": "Isla Monroe",
+      "headshot": "/titles/_cast/isla_monroe.jpg"
+    },
+    "dorian_vale": {
+      "name": "Dorian Vale",
+      "headshot": "/titles/_cast/dorian_vale.jpg"
+    },
+    "priya_anand": {
+      "name": "Priya Anand",
+      "headshot": "/titles/_cast/priya_anand.jpg"
+    },
+    "marcus_cole": {
+      "name": "Marcus Cole",
+      "headshot": "/titles/_cast/marcus_cole.jpg"
+    },
+    "elena_frost": {
+      "name": "Elena Frost",
+      "headshot": "/titles/_cast/elena_frost.jpg"
+    },
+    "kai_tanaka": {
+      "name": "Kai Tanaka",
+      "headshot": "/titles/_cast/kai_tanaka.jpg"
+    }
+  }
+}
