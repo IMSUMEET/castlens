@@ -1,18 +1,18 @@
 <div align="center">
 
-# ◐ SceneIQ
+# ◐ Castlens
 
 ### Video intelligence for streaming platforms.
 
-SceneIQ ingests a video and automatically generates the metadata streaming
+Castlens ingests a video and automatically generates the metadata streaming
 platforms spend teams producing by hand — an **X-Ray cast timeline** (who's on
 screen, when), **smart thumbnails**, and **skip-intro markers**. It ships with a
 **Netflix-grade viewer** so you can watch the intelligence work live: pause on
-any face and SceneIQ tells you who it is.
+any face and Castlens tells you who it is.
 
 <br/>
 
-![SceneIQ walkthrough](docs/media/walkthrough.gif)
+![Castlens walkthrough](docs/media/walkthrough.gif)
 
 <br/>
 
@@ -37,11 +37,11 @@ good **thumbnails**. At catalog scale that's an enormous, recurring cost — it'
 why AWS Rekognition, Google Video Intelligence, and startups like Twelve Labs
 sell "video understanding" to media companies.
 
-**SceneIQ is that engine, end to end** — plus a viewer that proves it works.
+**Castlens is that engine, end to end** — plus a viewer that proves it works.
 
 ## What the pipeline produces
 
-On ingest, SceneIQ auto-generates:
+On ingest, Castlens auto-generates:
 
 | Output | What it is |
 |--------|-----------|
@@ -57,11 +57,11 @@ recognises the enrolled cast in the footage (MTCNN + FaceNet/VGGFace2).
 
 <table>
   <tr>
-    <td width="50%"><img src="docs/media/shot_home.png" alt="Home" /><p align="center"><sub><b>Home</b> — a streaming catalog, indexed by SceneIQ</sub></p></td>
+    <td width="50%"><img src="docs/media/shot_home.png" alt="Home" /><p align="center"><sub><b>Home</b> — a streaming catalog, indexed by Castlens</sub></p></td>
     <td width="50%"><img src="docs/media/shot_watch.png" alt="Watch with X-Ray" /><p align="center"><sub><b>Watch</b> — pause → X-Ray names who's on screen</sub></p></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="docs/media/shot_studio.png" alt="SceneIQ Studio" /><p align="center"><sub><b>SceneIQ Studio</b> — the engine's real output: pipeline stages, cast-timeline Gantt, auto-selected thumbnails</sub></p></td>
+    <td colspan="2"><img src="docs/media/shot_studio.png" alt="Castlens Studio" /><p align="center"><sub><b>Castlens Studio</b> — the engine's real output: pipeline stages, cast-timeline Gantt, auto-selected thumbnails</sub></p></td>
   </tr>
 </table>
 
@@ -107,7 +107,7 @@ python pipeline/generate_demo.py        # writes web/public/titles/*
 cd web && npm install && npm run dev     # → http://localhost:3000
 ```
 
-Open the app, play a title, and **pause on a face** — SceneIQ names them.
+Open the app, play a title, and **pause on a face** — Castlens names them.
 Visit **/studio** to see the raw pipeline output.
 
 ## Deploy to AWS
@@ -116,7 +116,7 @@ Visit **/studio** to see the raw pipeline output.
 cd infra
 terraform init
 terraform apply     # provisions the serverless pipeline
-# then: aws s3 cp episode.mp4 s3://sceneiq-dev-uploads/  → pipeline runs automatically
+# then: aws s3 cp episode.mp4 s3://castlens-dev-uploads/  → pipeline runs automatically
 ```
 
 ## Tech stack
@@ -128,7 +128,7 @@ terraform apply     # provisions the serverless pipeline
 ## Project structure
 
 ```
-sceneiq/
+castlens/
 ├── pipeline/                  # the video-intelligence engine
 │   ├── faces.py               # MTCNN + FaceNet detection/recognition + cast index
 │   ├── ingest.py              # frames → timeline · thumbnails · scenes · intro

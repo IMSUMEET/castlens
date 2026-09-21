@@ -24,12 +24,12 @@ export default function NavBar() {
         <Link href="/" className="flex items-center gap-2">
           <span className="grid h-8 w-8 place-items-center rounded-md bg-gradient-to-br from-iq to-iq-deep font-bold text-black shadow-glow">◐</span>
           <span className="text-xl font-extrabold tracking-tight">
-            Scene<span className="text-iq">IQ</span>
+            Cast<span className="text-iq">lens</span>
           </span>
         </Link>
         <nav className="hidden items-center gap-5 text-sm text-white/70 md:flex">
           <Link href="/" className="hover:text-white">Home</Link>
-          <Link href="/studio" className="hover:text-white">SceneIQ Studio</Link>
+          <Link href="/studio" className="hover:text-white">Castlens Studio</Link>
         </nav>
         <div className="ml-auto flex items-center gap-3">
           <span className="pill hidden sm:inline-flex">

@@ -1,4 +1,4 @@
-"""Face detection + recognition — the recognition core of SceneIQ.
+"""Face detection + recognition — the recognition core of Castlens.
 
 Wraps MTCNN (detection/alignment) and InceptionResnetV1/vggface2 (512-d
 embeddings). A CastIndex holds enrolled reference embeddings per actor and

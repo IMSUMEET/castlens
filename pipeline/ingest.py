@@ -1,4 +1,4 @@
-"""SceneIQ ingest engine.
+"""Castlens ingest engine.
 
 Turns a raw video + an enrolled cast into the metadata a streaming platform
 needs: a per-actor appearance timeline (X-Ray), smart-thumbnail candidates,

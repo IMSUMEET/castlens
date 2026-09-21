@@ -29,9 +29,9 @@ export default function StudioPage() {
     <main className="mx-auto max-w-[1200px] px-5 pb-20 pt-24 md:px-8">
       <div className="mb-6">
         <span className="pill mb-3">The engine behind the magic</span>
-        <h1 className="text-3xl font-extrabold tracking-tight md:text-4xl">SceneIQ Studio</h1>
+        <h1 className="text-3xl font-extrabold tracking-tight md:text-4xl">Castlens Studio</h1>
         <p className="mt-2 max-w-2xl text-white/70">
-          When a title is ingested, SceneIQ auto-generates the metadata streaming platforms pay teams to
+          When a title is ingested, Castlens auto-generates the metadata streaming platforms pay teams to
           produce by hand: an X-Ray cast timeline, smart thumbnails, and skip-intro markers. Here&apos;s
           the real output for a title.
         </p>

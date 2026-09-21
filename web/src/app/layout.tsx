@@ -7,9 +7,9 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter", display: "sw
 const mono = JetBrains_Mono({ subsets: ["latin"], variable: "--font-mono", display: "swap" });
 
 export const metadata: Metadata = {
-  title: "SceneIQ — Video Intelligence for Streaming",
+  title: "Castlens — Video Intelligence for Streaming",
   description:
-    "SceneIQ turns raw video into the metadata streaming platforms need — X-Ray cast recognition, smart thumbnails, and skip-intro markers — automatically. Watch it live in a Netflix-style viewer.",
+    "Castlens turns raw video into the metadata streaming platforms need — X-Ray cast recognition, smart thumbnails, and skip-intro markers — automatically. Watch it live in a Netflix-style viewer.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

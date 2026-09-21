@@ -60,7 +60,7 @@ async function walkthrough(browser) {
   await pause(); await sleep(1400);
 
   // Studio — the engine
-  await p.getByRole("link", { name: "SceneIQ Studio" }).click();
+  await p.getByRole("link", { name: "Castlens Studio" }).click();
   await sleep(2500);
   for (let i = 0; i < 8; i++) { await p.mouse.wheel(0, 90); await sleep(80); }
   await sleep(2500);

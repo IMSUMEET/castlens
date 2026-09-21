@@ -7,7 +7,7 @@ import TitleRow from "@/components/TitleRow";
 export default function HomePage() {
   const catalog = useCatalog();
   if (!catalog) {
-    return <div className="grid min-h-screen place-items-center text-white/40">Loading SceneIQ…</div>;
+    return <div className="grid min-h-screen place-items-center text-white/40">Loading Castlens…</div>;
   }
   const { titles } = catalog;
   const featured = titles[0];

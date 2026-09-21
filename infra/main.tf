@@ -1,5 +1,5 @@
 ##############################################################################
-# SceneIQ — serverless video-intelligence pipeline (AWS)
+# Castlens — serverless video-intelligence pipeline (AWS)
 #
 #   S3 (raw upload) ──event──▶ frame-extractor Lambda (ffmpeg layer)
 #                                     │ writes keyframes ──▶ S3 (frames)
@@ -24,8 +24,8 @@ provider "aws" {
 }
 
 locals {
-  name = "sceneiq-${var.env}"
-  tags = { Project = "SceneIQ", Env = var.env, ManagedBy = "Terraform" }
+  name = "castlens-${var.env}"
+  tags = { Project = "Castlens", Env = var.env, ManagedBy = "Terraform" }
 }
 
 # ---------------------------------------------------------------- storage

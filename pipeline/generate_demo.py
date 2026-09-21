@@ -1,4 +1,4 @@
-"""Builds the SceneIQ demo catalog end to end:
+"""Builds the Castlens demo catalog end to end:
 
   1. downloads a rights-free "cast" of faces (randomuser.me)
   2. renders a short stylised "episode" per title (PIL frames -> ffmpeg mp4)

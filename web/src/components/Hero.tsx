@@ -13,7 +13,7 @@ export default function Hero({ title }: { title: Title }) {
 
       <div className="relative mx-auto flex h-full max-w-[1500px] flex-col justify-end px-5 pb-24 md:px-8">
         <span className="pill mb-4 w-fit">
-          <span className="h-1.5 w-1.5 rounded-full bg-iq animate-pulse2" /> Indexed by SceneIQ
+          <span className="h-1.5 w-1.5 rounded-full bg-iq animate-pulse2" /> Indexed by Castlens
         </span>
         <h1 className="max-w-2xl text-4xl font-extrabold leading-none tracking-tight md:text-6xl">{title.title}</h1>
         <div className="mt-3 flex items-center gap-3 text-sm text-white/70">

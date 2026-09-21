@@ -172,7 +172,7 @@ export default function Player({ title, intel, catalog }: { title: Title; intel:
                     <span className="ml-auto text-xs font-mono text-iq">{Math.round(f.conf * 100)}%</span>
                   </motion.div>
                 );
-              }) : <p className="text-sm text-white/40">Pause on a face, or press play — SceneIQ tags who&apos;s on screen.</p>}
+              }) : <p className="text-sm text-white/40">Pause on a face, or press play — Castlens tags who&apos;s on screen.</p>}
             </AnimatePresence>
           </div>
 

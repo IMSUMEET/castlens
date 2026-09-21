@@ -16,7 +16,7 @@ lambda_client = boto3.client("lambda")
 
 FFMPEG = "/opt/ffmpeglib/ffmpeg"
 MEDIA_BUCKET = os.environ.get("MEDIA_BUCKET", "")
-RECOGNIZER_FN = os.environ.get("RECOGNIZER_FN", "sceneiq-dev-recognizer")
+RECOGNIZER_FN = os.environ.get("RECOGNIZER_FN", "castlens-dev-recognizer")
 SAMPLE_FPS = os.environ.get("SAMPLE_FPS", "3")
 
 

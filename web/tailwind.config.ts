@@ -6,7 +6,7 @@ const config: Config = {
     extend: {
       colors: {
         night: { 950: "#08080b", 900: "#0b0b10", 850: "#121218", 800: "#18181f" },
-        iq: { DEFAULT: "#22d3ee", deep: "#0891b2" }, // SceneIQ cyan
+        iq: { DEFAULT: "#22d3ee", deep: "#0891b2" }, // Castlens cyan
         brand: "#e50914", // classic streamer red for play accents
       },
       fontFamily: {
